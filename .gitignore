@@ -1,0 +1,26 @@
+# Ignore sleep data (very large data, never push to github)
+/data/
+
+# --- Python Environments & Caches ---
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints/
+
+# --- Secrets & Local Config ---
+.env
+.env.*
+
+# --- OS & Editor Clutter ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
