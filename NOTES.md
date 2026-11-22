@@ -27,3 +27,7 @@ packages that are in this project
 mne - oos for eeg to load edf files 
 - load anotations from hypnogram 
 - timeseies dats from psg
+
+
+TODO: you can bring back the eeg data file in the project folder
+        just add it to gitgnore!!! :)
